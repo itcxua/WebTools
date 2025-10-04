@@ -1,4 +1,4 @@
-# MailCheck — PowerShell Mail Audit Tool
+﻿# MailCheck — PowerShell Mail Audit Tool
 
 ### 📋 Возможности
 - Проверка Reverse DNS (PTR)
