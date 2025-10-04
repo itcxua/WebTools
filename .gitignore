@@ -1,0 +1,12 @@
+
+---
+
+## 🧱 .gitignore
+```gitignore
+# MailCheck Project
+*.log
+*.bak
+*.tmp
+__pycache__/
+.DS_Store
+Thumbs.db
