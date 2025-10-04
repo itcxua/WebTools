@@ -10,5 +10,7 @@
 ### 🚀 Запуск
 1. Откройте CMD в каталоге проекта:
    ```cmd
-   cd MailCheck
+
+   git clone https://github.com/itcxua/WebTools.git
+   cd WebTools\tools\mail
    run.bat
