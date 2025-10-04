@@ -1,6 +1,8 @@
+# ***********************************************
 # MailCheck.ps1
 # Полный аудит почтового домена (SPF, DKIM, DMARC, MX, rDNS, TLS, Reputation)
 # Автор: DeVolaris | GPT-5
+# ***********************************************
 
 function Show-Menu {
     Clear-Host
